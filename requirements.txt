@@ -1,5 +1,6 @@
 scipy
-streamlit
+
+
 pandas
 sklearn
 matplotlib==3.2.2
